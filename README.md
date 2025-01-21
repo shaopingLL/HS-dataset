@@ -3,7 +3,7 @@
 
 https://pan.baidu.com/s/1ulB1qvXg4NDeNGkpRKwMsA?pwd=xs0q 
 
-## HS dataset testset
+## RSR dataset testset
 
 https://pan.baidu.com/s/1AFJexWtPDwuMZS_q1DB-YQ?pwd=pi1r
 
